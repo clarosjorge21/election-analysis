@@ -39,6 +39,7 @@ Using Python we were able to create a script that would give us the results for 
 ### Election Audit Summary
 
 We are able to to constantly use this program and script with future elections by just changing a few things in the script. Below you can see two codes that are in the script that if we modify we are able to change the election data but continue to use the script.
+
 ![This is an image](https://github.com/clarosjorge21/election-analysis/blob/873fe20a544154ebc93e39ec5423492ce756e51e/Resources/modify%201.PNG)
 ![This is an image](https://github.com/clarosjorge21/election-analysis/blob/873fe20a544154ebc93e39ec5423492ce756e51e/Resources/Modify%202.PNG)
 
