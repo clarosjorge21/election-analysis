@@ -12,7 +12,7 @@ Using Python we were able to create a script that would give us the results for 
 
 * #### How many votes were cast in this congressional election?
   * There was 369,711 votes that were cast in this congressional election.
- ![This is an image](https://github.com/clarosjorge21/election-analysis/blob/099df3d9416a456c35686d87bac1a5728a26bf12/Resources/Total%20Votes.PNG)
+  ![This is an image](https://github.com/clarosjorge21/election-analysis/blob/099df3d9416a456c35686d87bac1a5728a26bf12/Resources/Total%20Votes.PNG)
 
 * #### Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
   * There was three counties that participated in the precinct.
