@@ -10,7 +10,7 @@ Using Python we were able to create a script that would give us the results for 
 
 ### Election Results Audit Results
 
-* #### How many votes were cast in this congressional election?
+*#### How many votes were cast in this congressional election?
 There was 369,711 votes that were cast in this congressional election.
 
 * #### Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
