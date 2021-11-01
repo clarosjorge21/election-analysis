@@ -38,3 +38,5 @@ Using Python we were able to create a script that would give us the results for 
 
 ### Election Audit Summary
 
+![This is an image](https://github.com/clarosjorge21/election-analysis/blob/873fe20a544154ebc93e39ec5423492ce756e51e/Resources/modify%201.PNG)
+![This is an image](https://github.com/clarosjorge21/election-analysis/blob/873fe20a544154ebc93e39ec5423492ce756e51e/Resources/Modify%202.PNG)
