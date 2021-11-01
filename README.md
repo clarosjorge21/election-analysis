@@ -14,7 +14,7 @@ Using Python we were able to create a script that would give us the results for 
 There was 369,711 votes that were cast in this congressional election.
 
 * #### Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-*  There was three counties that participated in the precinct.
+ * There was three counties that participated in the precinct.
   * Jefferson with 38,855 votes which came out to 10.5% of the votes.
   * Denver with 306,055 votes which came out to 82.8% of the votes.
   * Arapahoe with 24,801 votes which came out to 6.7% of the votes. 
